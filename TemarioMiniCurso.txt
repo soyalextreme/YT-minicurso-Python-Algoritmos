@@ -1,0 +1,40 @@
+TEMARIO DEL CURSO
+
+#Python o C++ o JAVA
+
+Python 
+1 - Que Como el computador entiende Python? Que es python? Compilado vs interpretado?
+      Documentacion? En que se usa python.
+2 - Requisitos e instalaccion, recomendaciones.
+3 - Variables: Definicion Tipos, En el fondo que son las variables, Funciones
+  nativas.
+4 - Operadores Logicos y Aritmeticos => Que son sus diferencias y para sirven
+
+5 - If else elif => Bifurcadores para modelar tu programa
+
+6 -Funciones => Reciclar codigo, parametros establecidos por defecto.
+
+7 - Estructuras de datos mas comlejos => listas, tuplas, diccionarios, set
+
+8 - Ciclos => Iteradores para recorrer 
+
+9 - Clases => POO que es como funciona, Creando la primera clase
+
+10 - Constructor y funciones de una clase.
+
+11 - Atributos => privados, protegidos o publicos 
+
+12 - Encapsulamiento => Getter Setters
+
+13 - Herencia => methodo super
+
+14 - Polimorfismo => Habilidades de tomar muchas formas 
+
+15 - Que es un algoritmo => Ejemplo de algoritmo, complejidad algoritmica, medir eficiencia de algoritmos
+
+16 - BONUS => Algoritmo de busqueda lineal => Algoritmo de busqueda binaria
+17 - BOUNUS => Algoritmo de fibonacci
+
+
+GITHUB EN LA DESCRIPCION
+
