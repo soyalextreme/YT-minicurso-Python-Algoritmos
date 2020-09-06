@@ -6,7 +6,7 @@
 Can find the Mini Course in my Youtube channel!
 Hope you enjoy and thanks.
 
-(Youtube)["https://youtube.com"]
+[Youtube](https://youtube.com)
 
 
 Alejandro AS
